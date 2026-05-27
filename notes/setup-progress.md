@@ -8,8 +8,8 @@
 | Basic tools installed | Completed |
 | Wazuh all-in-one installation | Completed |
 | Wazuh dashboard access confirmed | Completed |
-| Wazuh agent deployed | Pending |
-| First alert generated | Pending |
+| Wazuh agent deployed | Completed |
+| First alert generated | Completed |
 
 ## Network Configuration
 
