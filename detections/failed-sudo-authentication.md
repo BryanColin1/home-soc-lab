@@ -64,7 +64,9 @@ Failed sudo authentication attempts may indicate mistyped credentials, unauthori
 
 ## Evidence
 
-![Failed Sudo Alert](../screenshots/failed-sudo-alert.png)
+![Failed Sudo Alert](../screenshots/failed-sudo-alert-1.png)
+![](../screenshots/failed-sudo-alert-2.png)
+![](../screenshots/failed-sudo-alert-3.png)
 
 ## Conclusion
 
