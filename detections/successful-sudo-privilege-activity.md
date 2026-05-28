@@ -51,20 +51,19 @@ Successful sudo activity is important in SOC monitoring because it indicates tha
 
 ## Analyst Notes
 
-Confirm whether the sudo activity was authorized.
-Review the user account and endpoint involved.
-Check which privileged commands were executed.
-Correlate sudo activity with authentication, file changes, and audit events.
-Escalate if privilege use is unexpected or followed by suspicious activity.
+- Confirm whether the sudo activity was authorized.
+- Review the user account and endpoint involved.
+- Check which privileged commands were executed.
+- Correlate sudo activity with authentication, file changes, and audit events.
+- Escalate if privilege use is unexpected or followed by suspicious activity.
 
 ## Recommended Response
 
-Identify the endpoint and user account involved.
-Determine whether the sudo activity was expected.
-Review related authentication and command activity.
-Check for suspicious follow-up actions.
-Document the event as authorized testing or escalate if unexpected.
-Evidence
+1. Identify the endpoint and user account involved.
+2. Determine whether the sudo activity was expected.
+3. Review related authentication and command activity.
+4. Check for suspicious follow-up actions.
+5. Document the event as authorized testing or escalate if unexpected.
 
 ## Conclusion
 
